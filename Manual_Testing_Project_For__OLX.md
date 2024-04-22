@@ -50,8 +50,8 @@ Project objective established and communicated with the team QA
 95% of tests are passed\
 No Critical issues have Open status\
 Update tests are 100% passed (update tests will not generate other new issues that impact the application)\
-Retests are passed 
-Regression testing are passed\
+Retests are passed and 
+regression testing are passed\
 The deadline has been reached\
 The objectives has been accomplished\
 The testing documentation is done and communicated to the stakeholders\
