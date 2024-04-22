@@ -38,11 +38,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-<li>Business requirements are available and agreed</li>  
-</li> Roles and responsibilities are clear and agreed</li> 
-</li> Project risks  are identified and mitigated</li> 
-</li> Deadline established</li>  
-</li> Project objective established and communicated with the team QA</li> 
+Business requirements are available and agreed\
+Roles and responsibilities are clear and agreed\
+Project risks  are identified and mitigated\
+Deadline established\  
+Project objective established and communicated with the team QA\
 
 
 <h4> 1.1.3 Exit criteria defined </h4>
