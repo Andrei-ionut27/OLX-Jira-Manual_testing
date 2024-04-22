@@ -50,13 +50,14 @@ Project objective established and communicated with the team QA
 95% of tests are passed\
 No Critical issues have Open status\
 Update tests are 100% passed (update tests will not generate other new issues that impact the application)\
-Retests are passed\ 
+Retests are passed
+ 
 Regression testing are passed\
 The deadline has been reached\
 The objectives has been accomplished\
 The testing documentation is done and communicated to the stakeholders\
 The test summary report is communicated to the stakeholders\
-All the defects have been documented and communicated to the stakeholders\
+All the defects have been documented and communicated to the stakeholders
 
 
 <h4> 1.1.4 Test scope</h4>
