@@ -1,14 +1,14 @@
-<h1>Testing Project for **Inserati aici numele aplicatiei pe care o testati**</h1>
+<h1>Testing Project for OLX </h1>
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
-Application under test: **Inserati aici numele aplicatiei pe care o testati**
+Application under test: OLX
 
 Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The below story **(daca aveti mai multe scrieti stories**) was created in Jira and describes the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
+The below stories **(daca aveti mai multe scrieti stories**) was created in Jira and describes the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
 
 **inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
 
@@ -38,11 +38,26 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
+Business requirements are available and agreed 
+roles and responsibilities are clear and agreed
+ Project risks  are identified and mitigated 
+Deadline established 
+Project objective established and communicated with the team QA
+
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
+95% of tests are passed
+no Critical issues have Open status
+update tests are 100% passed (update tests will not generate other new issues that impact the application)
+Retests are passed 
+Regression testing are passed
+The deadline has been reached
+The objectives has been accomplished
+The testing documentation is done and communicated to the stakeholders
+The test summary report is communicated to the stakeholders
+All the defects have been documented and communicated to the stakeholders
+
 
 <h4> 1.1.4 Test scope</h4>
 
