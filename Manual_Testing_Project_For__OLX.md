@@ -104,6 +104,7 @@ Non functional testing:
   Also we will use google chrome and opera browser for testing.
 
 <h5>Tests not in scope: </h5>
+
 On the job area the following areas are out of scope:
 - Subcategory
 - Type of contract
@@ -111,10 +112,10 @@ On the job area the following areas are out of scope:
 - Level of experience
 - Open role for people with disabilities
 - Requires work permit
+  
 The following tests are out of scope:
 - Automation testing is out of scope
-- Performance testing is out of scope and all the subcategories of 
-performance testing is out of scope
+- Performance testing is out of scope and all the subcategories of performance testing is out of scope
 - Security testing will not be done
 - Compliance regulation testing is out of scope
 
@@ -123,11 +124,19 @@ performance testing is out of scope
 
 <h5>Project risks:</h5>
 
-**(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
+- Some categories may not work on different languages 
+- The translation on the web app is not working 
 
 <h5> Product risks: </h5>
 
-**(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
+- load testing would be necessary because the system crashes when there are many users in the web application
+- The web app may crash on 3rd parties softwares
+- stability risks (crashes, disconnects, etc)
+- The older versions of Google Chrome can impact the performance
+- The opera browser may crash on this version
+- the web page pagination could be impacted when opened on mobile devices
+- new browser might not be supported
+
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
