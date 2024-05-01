@@ -14,7 +14,12 @@ The below stories was created in Jira and describes the functional specification
 
 Here you can find the release that was created for this project:
 
-**(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
+![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/19a1e9ff-1f3b-44b4-92b6-d559278fc587)
+![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/ff9aadf4-8ce1-4a46-91e7-c7efcb121b8d)
+![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/a8da57d2-1575-43fc-b241-60a9fc3e9f7c)
+
+
+
 
 <h2>Testing process</h2>
 
