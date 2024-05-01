@@ -101,7 +101,7 @@ Non functional testing:
 - Localization testing
   
   We will perform BlackBox testing (EP, BVA, STT, DT) and WhiteBox (Statement coverage and Decision Coverage).
-  
+  Also we will use google chrome and opera browser for testing.
 
 <h5>Tests not in scope: </h5>
 On the job area the following areas are out of scope:
