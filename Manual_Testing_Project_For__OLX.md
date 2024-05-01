@@ -67,8 +67,7 @@ All the defects have been documented and communicated to the stakeholders
 
 <h5> Tests in scope: </h5>
 
-**(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
-We are focusing our tests on the following areas:
+ We are focusing our tests on the following areas:
 1) The main category Jobs - In this section will test the category call center 
 Here will test the following areas:
 - Job mobility
@@ -105,8 +104,20 @@ Non functional testing:
   
 
 <h5>Tests not in scope: </h5>
+On the job area the following areas are out of scope:
+- Subcategory
+- Type of contract
+- Level of education
+- Level of experience
+- Open role for people with disabilities
+- Requires work permit
+The following tests are out of scope:
+- Automation testing is out of scope
+- Performance testing is out of scope and all the subcategories of 
+performance testing is out of scope
+- Security testing will not be done
+- Compliance regulation testing is out of scope
 
-**(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
 
 <h4>1.1.5 Risks detected</h4>
 
