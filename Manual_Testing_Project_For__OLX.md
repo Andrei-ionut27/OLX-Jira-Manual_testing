@@ -33,7 +33,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
-**(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
 <ul>
   <li>Project manager</li> Gaube Natasha
   <li>Product owner</li> Varga Alexandra
