@@ -68,6 +68,41 @@ All the defects have been documented and communicated to the stakeholders
 <h5> Tests in scope: </h5>
 
 **(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+We are focusing our tests on the following areas:
+1) The main category Jobs - In this section will test the category call center 
+Here will test the following areas:
+- Job mobility
+- Type job
+- Work schedule
+- Open to students
+- Remote requirement
+  
+  2) Add new ad
+Here will test the following areas:
+- Add title
+- Category
+- Add imagines
+- Description
+- City
+- Contact person
+- Email address
+- Phone number
+- Post new add
+Will make also make the following tests:
+- Functional testing
+- Retest
+- Regression testing
+- Positive testing
+- Negative testing
+Non functional testing:
+- Usability testing
+- Portability testing
+- Maintainability testing
+- Compatibility testing 
+- Localization testing
+  
+  We will perform BlackBox testing (EP, BVA, STT, DT) and WhiteBox (Statement coverage and Decision Coverage).
+  
 
 <h5>Tests not in scope: </h5>
 
