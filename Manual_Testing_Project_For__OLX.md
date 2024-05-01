@@ -69,15 +69,15 @@ The plan identifies the items to be tested, the features to be tested, the types
 
  We are focusing our tests on the following areas:
 1) The main category Jobs - In this section will test the category call center 
-Here will test the following areas:
+ Here will test the following areas:
 - Job mobility
 - Type job
 - Work schedule
 - Open to students
 - Remote requirement
   
-  2) Add new ad
-Here will test the following areas:
+2) Add new ad
+ Here will test the following areas:
 - Add title
 - Category
 - Add imagines
