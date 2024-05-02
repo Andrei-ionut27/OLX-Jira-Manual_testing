@@ -202,15 +202,15 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: **(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
+The traceability matrix was generated and can be found here: https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/blob/main/Forward%20Traceability%20for%20OLX.xlsx
 
 Test execution chart was generated and can be found below. 
 
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/24180627-9719-4ab6-ad90-8151c3e21c53)
 
-The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
+The final report shows that a number 2 tests have failed of a total of 17.
 
-A number of **(inserati numarul de bug-uri)** total bugs were found, from which the priority is: **(inserati numarul de bug-uri)** are high and **(inserati numarul de bug-uri)** are medium.
+A number of 10 total bugs were found, from which the priority is: 3 bugs are high and 7 are medium.
 
 **(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
 
