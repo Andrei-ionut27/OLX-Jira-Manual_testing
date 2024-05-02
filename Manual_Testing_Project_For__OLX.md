@@ -144,7 +144,20 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 <h3>1.2 Test Monitoring and Control<h3>
 
-**(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)**
+We measured and analyzed continuously of specific metrics to gain valuable insights, assess progress and proactively identify potential issues,Offering feedback to the QA team and other stakeholders regarding the progress of sprint test cycles.
+
+Test monitoring involves several tasks,
+- Providing updates to the QA team and stakeholders about the ongoing sprint test cycles.
+- Sharing the current test results with everyone involved.
+- Keeping track of important test metrics.
+- Planning and determining what to do next based on the tracked metrics.
+  
+  The following metrics will be monitored during the testing process,
+- Cost 
+- Schedule
+- Resources
+- Quality
+  ![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/79099aff-cd81-4fd1-98e0-1875f124941e)
 
 <h3> 1.3 Test Analysis </h3>
 The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
