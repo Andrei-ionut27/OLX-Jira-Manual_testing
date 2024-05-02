@@ -169,22 +169,33 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/blob/main/ZFJ-Executions-05-02-2024.csv)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/blob/main/ZFJ-Executions-05-02-2024.csv
 
 <h3>1.5 Test Implementation</h3>
 
 The following elements are needed to be ready before the test execution phase begins:
 
-**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
+https://www.olx.ro/
+
+- Test environment is up and running and ready for testing
+- We make sure the test data is available and accurate 
+- We make sure we have the permissions to access the web application
+- We group the most important test cases for testing
+- Smoke test passed
+- Permissions available 
 
 <h3>1.6. Test Execution </h3>
 
-Test cases are executed on the created test Cycle summary: **(inserati aici numele cycle-ului pe care l-ati creat)**
+Test cases are executed on the created test Cycle summary: 
+- Olx Testing functionality on call center filters and the main category logo Jobs
+- Testing Posting new ad fields where the user need to fill
+- Olx Graphical user interface (gui) and Functionality
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [Jira.csv](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/files/15187549/Jira.csv)
 
 The following is a summary of the bugs that have been found
-**(inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)**
+![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/5b823e4f-3965-46c6-9f8e-0daed23e46a7)
+![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/e7fa47c7-1235-4a73-9226-68c9f457ea36)
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
