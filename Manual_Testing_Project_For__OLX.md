@@ -169,7 +169,7 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/blob/main/ZFJ-Executions-05-02-2024.csv)
 
 <h3>1.5 Test Implementation</h3>
 
