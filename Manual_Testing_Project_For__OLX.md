@@ -160,11 +160,12 @@ Test monitoring involves several tasks,
   ![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/79099aff-cd81-4fd1-98e0-1875f124941e)
 
 <h3> 1.3 Test Analysis </h3>
-The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
+The testing process will be executed based on the application requirements.
 
 The following test conditions were found: <br>
 
-**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
+![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/6ee84d0b-f673-4aa8-ab47-058ba12cb303)
+![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/767e0243-2038-4d15-adf0-e48b0b4d570a)
 
 <h3>1.4 Test Design</h3>
 
