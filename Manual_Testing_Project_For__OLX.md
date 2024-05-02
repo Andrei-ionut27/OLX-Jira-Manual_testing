@@ -212,5 +212,4 @@ The final report shows that a number 2 tests have failed of a total of 17.
 
 A number of 10 total bugs were found, from which the priority is: 3 bugs are high and 7 are medium.
 
-**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
-
+We executed a total of 17 tests and covered a total of 90% of the business requirements, the launch is not impacted by the bugs found, they can be fixed even if the app is launched.The product risks have been mitigated and the app can be launch.
