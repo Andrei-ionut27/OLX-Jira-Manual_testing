@@ -151,7 +151,8 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 <h3>1.2 Test Monitoring and Control<h3>
 
-We measured and analyzed continuously of specific metrics to gain valuable insights, assess progress and proactively identify potential issues,Offering feedback to the QA team and other stakeholders regarding the progress of sprint test cycles.
+ We measured and analyzed continuously of specific metrics to gain valuable insights, assess progress and proactively identify potential issues, Offering feedback 
+  to the QA team and other stakeholders regarding the progress of sprint test cycles.
 
 Test monitoring involves several tasks,
 - Providing updates to the QA team and stakeholders about the ongoing sprint test cycles.
@@ -164,6 +165,8 @@ Test monitoring involves several tasks,
 - Schedule
 - Resources
 - Quality
+
+  
   ![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/79099aff-cd81-4fd1-98e0-1875f124941e)
 
 <h3> 1.3 Test Analysis </h3>
