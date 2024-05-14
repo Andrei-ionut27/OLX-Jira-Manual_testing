@@ -149,7 +149,7 @@ The following tests are out of scope:
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
-<h3>1.2 Test Monitoring and Control<h3>
+<h3>1.2 Test Monitoring and Control</h3>
 
  We measured and analyzed continuously of specific metrics to gain valuable insights, assess progress and proactively identify potential issues, Offering feedback 
   to the QA team and other stakeholders regarding the progress of sprint test cycles.
