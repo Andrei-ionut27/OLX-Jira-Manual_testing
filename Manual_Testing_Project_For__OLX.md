@@ -14,10 +14,13 @@ The below stories was created in Jira and describes the functional specification
 
 
 Here you can find the release that was created for this project:
+![Screenshot_3](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/b695100e-c371-4b39-8e2f-a45cd621f179)
+![Screenshot_4](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/50178dbb-7ffc-456b-880e-fb56f569f0c5)
+![Screenshot_5](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/a2234580-ad06-4b38-880c-3480cee4eede)
+![Screenshot_6](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/3cf2039f-8019-439f-8d01-82a821da8ef6)
 
-![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/19a1e9ff-1f3b-44b4-92b6-d559278fc587)
-![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/ff9aadf4-8ce1-4a46-91e7-c7efcb121b8d)
-![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/a8da57d2-1575-43fc-b241-60a9fc3e9f7c)
+
+
 
 
 
