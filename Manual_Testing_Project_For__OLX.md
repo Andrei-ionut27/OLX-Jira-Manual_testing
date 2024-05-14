@@ -10,7 +10,8 @@ Tools used: Jira, Zephyr Squad.
 
 The below stories was created in Jira and describes the functional specifications of the **Jobs** => Call Center - Customer Support module, for which the final project is performed upon.
 
-![aft_board_2024-05-01_03 37pm](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/acb25e69-6ffa-4e18-9684-7863e41abd7c)
+![aft_board_2024-05-14_08 58pm](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/8930ee1f-c974-4b10-8cb6-fbcd7cf4dd76)
+
 
 Here you can find the release that was created for this project:
 
