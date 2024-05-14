@@ -128,18 +128,21 @@ The following tests are out of scope:
 
 <h5>Project risks:</h5>
 
-- Some categories may not work on different languages 
-- The translation on the web app is not working 
+•	Confusing navigation interface that could cause negative feedback from the users and, therefore, a possible loss of customers.
+•	Because of the short deadline the majority of tests might remain undone, and they might have functionalities problems.
+
 
 <h5> Product risks: </h5>
 
-- load testing would be necessary because the system crashes when there are many users in the web application
-- The web app may crash on 3rd parties softwares
-- stability risks (crashes, disconnects, etc)
-- The older versions of Google Chrome can impact the performance
-- The opera browser may crash on this version
-- the web page pagination could be impacted when opened on mobile devices
-- new browser might not be supported
+•	The web app may crash on 3rd parties’ software.
+•	stability risks (crashes, disconnects, etc.)
+•	The older versions of Google Chrome can impact the performance.
+•	The opera browser may crash on this version.
+•	web page pagination could be impacted when opened on mobile devices.
+•	new browser might not be supported.
+•	Some categories may not work on different languages. 
+•	The translation on the web app is not working. 
+
 
 
 <h4>1.1.6 Evaluating entry criteria</h4>
