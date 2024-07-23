@@ -38,10 +38,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
 <ul>
-  <li>Project manager</li> Gaube Natasha
-  <li>Product owner</li> Varga Alexandra
-  <li>Software developer</li> Magdau Maria
-  <li>QA Engineer</li> Florea Andrei
+  <li>Project manager</li>/ Gaube Natasha
+  <li>Product owner</li>/ Varga Alexandra
+  <li>Software developer</li>/ Magdau Maria
+  <li>QA Engineer</li>/ Florea Andrei
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
