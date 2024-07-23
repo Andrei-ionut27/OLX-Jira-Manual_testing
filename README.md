@@ -38,7 +38,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
 <ul>
-  <li>Project manager</li> Gaube Natasha<br>
+  <li>Project manager Gaube Natasha</li>
   <li>Product owner</li> Varga Alexandra
   <li>Software developer</li> Magdau Maria
   <li>QA Engineer</li> Florea Andrei
