@@ -175,8 +175,9 @@ The testing process will be executed based on the application requirements.
 
 The following test conditions were found: <br>
 
-![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/86f7ce67-7567-4e41-b106-848440ff6f8c)
-![image](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/assets/167453855/1b4b0a69-9a90-4bbc-982a-4c174c0eaab2)
+![image](https://github.com/user-attachments/assets/0904ad07-ac12-4b3a-8146-3a122002084b)
+![image](https://github.com/user-attachments/assets/a2c7aacd-b2d1-449e-864b-e3351d045fd1)
+
 
 
 
