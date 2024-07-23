@@ -39,9 +39,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <ul>
   <li>Project manager Gaube Natasha</li>
-  <li>Product owner</li> Varga Alexandra
-  <li>Software developer</li> Magdau Maria
-  <li>QA Engineer</li> Florea Andrei
+  <li>Product owner Varga Alexandra</li>
+  <li>Software developer Magdau Maria</li> 
+  <li>QA Engineer Florea Andrei</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
