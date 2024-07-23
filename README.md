@@ -46,24 +46,24 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-- Business requirements are available and agreed\
-- Roles and responsibilities are clear and agreed\
-- Project risks  are identified and mitigated\
+- Business requirements are available and agreed
+- Roles and responsibilities are clear and agreed
+- Project risks  are identified and mitigated
 - Deadline established 
 - Project objective established and communicated with the team QA
 
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-- 95% of tests are passed\
-- No Critical issues have Open status\
-- Update tests are 100% passed (update tests will not generate other new issues that impact the application)\
+- 95% of tests are passed
+- No Critical issues have Open status
+- Update tests are 100% passed (update tests will not generate other new issues that impact the application)
 - Retests are passed and 
-- regression testing are passed\
-- The deadline has been reached\
-- The objectives has been accomplished\
-- The testing documentation is done and communicated to the stakeholders\
-- The test summary report is communicated to the stakeholders\
+- regression testing are passed
+- The deadline has been reached
+- The objectives has been accomplished
+- The testing documentation is done and communicated to the stakeholders
+- The test summary report is communicated to the stakeholders
 - All the defects have been documented and communicated to the stakeholders
 
 
