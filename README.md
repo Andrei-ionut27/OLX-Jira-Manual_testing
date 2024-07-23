@@ -128,7 +128,7 @@ The following tests are out of scope:
 
 <h5>Project risks:</h5>
 
-•	<li>The team leader is on medical leave and the replacement has little experience and this can lead to non-fulfillment of the deadline and problems during the project development.</li>
+•	The team leader is on medical leave and the replacement has little experience and this can lead to non-fulfillment of the deadline and problems during the project development.\
 •	Because of the short deadline the majority of tests might remain undone, and they might have functionalities problems.
 
 
