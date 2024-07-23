@@ -128,12 +128,13 @@ The following tests are out of scope:
 
 <h5>Project risks:</h5>
 
-•	Confusing navigation interface that could cause negative feedback from the users and, therefore, a possible loss of customers.\
+•	The team leader is on medical leave and the replacement has little experience and this can lead to non-fulfillment of the deadline and problems during the project.
 •	Because of the short deadline the majority of tests might remain undone, and they might have functionalities problems.
 
 
 <h5> Product risks: </h5>
 
+•	Confusing navigation interface that could cause negative feedback from the users and, therefore, a possible loss of customers.\
 •	The web app may crash on 3rd parties’ software.\
 •	stability risks (crashes, disconnects, etc.)\
 •	The older versions of Google Chrome can impact the performance.\
