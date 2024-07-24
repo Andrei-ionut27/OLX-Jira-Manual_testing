@@ -216,7 +216,9 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 <h3>1.7 Test Completion</h3>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/blob/main/Forward%20Traceability%20for%20OLX.xlsx
+The traceability matrix was generated and can be found [here](https://github.com/Andrei-ionut27/OLX-Jira-Manual_testing/blob/main/Forward%20Traceability%20for%20OLX.xlsx)
+![image](https://github.com/user-attachments/assets/b14276ca-aeed-4680-b82b-cb749681fbf7)
+
 
 Test execution chart was generated and can be found below. 
 
